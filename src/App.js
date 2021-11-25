@@ -1,14 +1,16 @@
 import Header from './components/Header/header.js';
-import Banner from './components/Banner/banner.js';
+import AllCompanies from './components/Companies/allCompanies.js';
 import Body from './components/Body/body.js';
+import About from './components/About/about.js';
 import Footer from './components/Footer/footer.js';
 
 function App() {
 	return (
 		<div className="App">
 			<Header />
-			<Banner />
+			<AllCompanies />
 			<Body />
+			<About />
 			<Footer />
 		</div>
 	);

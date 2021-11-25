@@ -8,39 +8,51 @@ const Footer = () => {
 				<div className="container">
 					<div className="row">
 						<div className="footer-col">
-							<h4>Jeff Shibasaki</h4>
+							<h4>BERKSHIRE HATHAWAY</h4>
 							<ul>
 								<li><a href="#">About</a></li>
+								<li><a href="#">News</a></li>
+								<li><a href="#">Reports</a></li>
 								<li><a href="#">Contact</a></li>
-								<li><a href="#">Resume</a></li>
+								<li><a href="#">Pledges</a></li>
+								<li><a href="#">Apparel</a></li>
 							</ul>
 						</div>
 						<div className="footer-col">
-							<h4>Portfolio</h4>
+							<h4>LETTERS</h4>
 							<ul>
-								<li><a href="#">Work</a></li>
-								<li><a href="#">Blog</a></li>
-								<li><a href="#">Challenges</a></li>
+								<li><a href="#">Owner's Manual</a></li>
+								<li><a href="#">Warren's Letters</a></li>
+								<li><a href="#">Charlie's Letters</a></li>
+								<li><a href="#">Special Letters</a></li>
 							</ul>
 						</div>
 						<div className="footer-col">
-							<h4>Social</h4>
+							<h4>COMPANIES</h4>
 							<ul>
-								<div className="social-links">
-									<a href="#"><i className="fab fa-facebook-f"></i></a>
-									<a href="#"><i className="fab fa-twitter"></i></a>
-									<a href="#"><i className="fab fa-instagram"></i></a>
-									<a href="#"><i className="fab fa-linkedin-in"></i></a>
-								</div>
+								<li><a href="#">Subsidiaries</a></li>
+								<li><a href="#">Minority Holdings</a></li>
+								<li><a href="#">Corporate Governance</a></li>
+								<li><a href="#">Sustainability</a></li>
 							</ul>
 						</div>
 						<div className="footer-col">
-							<div className="tandc">
-								<span>Terms</span>&nbsp;
-								<span>Privacy</span>&nbsp;
-								<span>Disclaimer</span>&nbsp;
-								<span>Asscessibility</span>&nbsp;
-							</div>
+							<h4>INVESTING</h4>
+							<ul>
+								<li><a href="#">Class A and B Stock</a></li>
+								<li><a href="#">SEC Filings</a></li>
+							</ul>
+						</div>
+						<div className="footer-col">
+							<ul>
+								<li>
+									<span>Terms</span>&nbsp;&nbsp;&nbsp;
+									<span>Privacy</span>&nbsp;&nbsp;&nbsp;
+									<span>Disclaimer</span>
+								</li>
+								<li>Copyright &copy; 1978-2020</li>
+								<li>Berkshire Hathaway Inc.</li>
+							</ul>
 						</div>
 					</div>
 				</div>
